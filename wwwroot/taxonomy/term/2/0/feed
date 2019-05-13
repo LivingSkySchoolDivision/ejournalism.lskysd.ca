@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://ejournalism.lskysd.ca"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>E-Journalism &#039;09 - Day One</title>
+ <link>https://ejournalism.lskysd.ca/taxonomy/term/2/0</link>
+ <description>Kathy Cassidy with Ejournalism StudentsJamie McKenziephoto highlights of day 1 ejournalism </description>
+ <language>en</language>
+<item>
+ <title>More Displays</title>
+ <link>https://ejournalism.lskysd.ca/node/55</link>
+ <description></description>
+ <category domain="https://ejournalism.lskysd.ca/taxonomy/term/2">Day One</category>
+ <pubDate>Tue, 24 Mar 2009 16:37:26 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">55 at https://ejournalism.lskysd.ca</guid>
+</item>
+<item>
+ <title>Jamie McKenzie</title>
+ <link>https://ejournalism.lskysd.ca/node/54</link>
+ <description></description>
+ <category domain="https://ejournalism.lskysd.ca/taxonomy/term/2">Day One</category>
+ <pubDate>Tue, 24 Mar 2009 16:19:24 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">54 at https://ejournalism.lskysd.ca</guid>
+</item>
+<item>
+ <title>Kathy Cassidy</title>
+ <link>https://ejournalism.lskysd.ca/node/52</link>
+ <description></description>
+ <category domain="https://ejournalism.lskysd.ca/taxonomy/term/2">Day One</category>
+ <pubDate>Tue, 24 Mar 2009 15:59:14 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">52 at https://ejournalism.lskysd.ca</guid>
+</item>
+<item>
+ <title>Ejournalism Student</title>
+ <link>https://ejournalism.lskysd.ca/node/51</link>
+ <description></description>
+ <category domain="https://ejournalism.lskysd.ca/taxonomy/term/2">Day One</category>
+ <pubDate>Tue, 24 Mar 2009 15:51:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">51 at https://ejournalism.lskysd.ca</guid>
+</item>
+</channel>
+</rss>
