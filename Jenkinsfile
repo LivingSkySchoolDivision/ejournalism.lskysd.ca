@@ -9,7 +9,7 @@ pipeline {
         stage('Git clone') {
             steps {
                 git branch: 'master',
-                    url: 'https://sourcecode.lskysd.ca/PublicCode/ArchivedWebsite-eJournalism09.git'
+                    url: 'https://github.com/LivingSkySchoolDivision/ejournalism.lskysd.ca.git'
             }
         }
         stage('Docker build') {
